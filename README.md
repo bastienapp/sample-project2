@@ -1,3 +1,3 @@
 # My demo project
 
-THis is awesome
+This is awesome!
